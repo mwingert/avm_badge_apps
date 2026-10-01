@@ -6,6 +6,7 @@ Apps for the AtomVM conference badge, installed from the badge's Store page.
 
 | Game | Author | |
 |------|--------|-|
+| [Magic 8-Ball](apps/magic8) | Luka Dornhecker | Ask a yes-or-no question, shake the badge, and the answer rises out of the ink<br><img src="apps/magic8/screenshot-1.png" width="200"> <img src="apps/magic8/screenshot-2.png" width="200"> |
 | [RPS](apps/rps) | Luka Dornhecker | Rock, paper, scissors over IR: point two badges together, pick in secret, face off for a synced reveal<br><img src="apps/rps/screenshot-1.png" width="408"> |
 | [Snake](apps/snake) | Arjan Scherpenisse | Steer into the food, or press z and watch it play<br><img src="apps/snake/screenshot-1.png" width="200"> |
 | [Sokoban](apps/sokoban) | Mathias Wingert | Push every box onto a goal, through 20 Microban levels by David W. Skinner<br><img src="apps/sokoban/screenshot-1.png" width="200"> <img src="apps/sokoban/screenshot-2.png" width="200"> |
